@@ -1,0 +1,301 @@
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+c:\users\asus\documents\visual studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\deneme veritabanı\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Documents\OTELOTELTOELTOETLETOELTEOTLEOTELTEOTLE\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Documents\OTELOTELTOELTOETLETOELTEOTLEOTELTEOTLE\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Documents\OTELOTELTOELTOETLETOELTEOTLEOTELTEOTLE\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (1)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (12)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (15)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (18)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (25)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (28)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (30)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (35)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Kopyalar\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Kopyalar\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Kopyalar\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form16.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form17.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form16.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form17.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Otel veritabanım (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form18.resources
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Desktop\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.compiled
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form16.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form17.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form18.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.cache
+D:\Access (iş)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.compiled
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.pdb
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form16.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form17.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form18.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.cache
+D:\Nesnel Proje Ödevi (Tamamlandı)\PROJE\Proje Ödevim (45)\deneme veritabanı\obj\Debug\RdlCompile.compiled
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\bin\Debug\deneme veritabanı.exe.config
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.exe
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.pdb
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csprojResolveAssemblyReference.cache
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form1.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form10.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form11.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form12.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form13.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form14.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form15.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form16.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form17.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form18.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form2.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form3.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form4.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form5.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form6.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form7.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form8.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Form9.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme_veritabanı.Properties.Resources.resources
+C:\Users\Metehan\Desktop\Proje Ödevim (45)\deneme veritabanı\obj\Debug\deneme veritabanı.csproj.GenerateResource.Cache
